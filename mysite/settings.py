@@ -25,7 +25,9 @@ SECRET_KEY = 'yh7w=h(27+mhbno3q8fvlgbvj@^@lnjqle2+th)(33d-acp)+l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+	'pymdy.pythonanywhere.com',
+]
 
 
 # Application definition
